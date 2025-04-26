@@ -44,7 +44,7 @@ Hi！guys,我叫**凯琳_keli<span style="color: #ff5c93;">*~~n~~*</span>**，�
 ### 怎么联系我？
 - ##### QQ    
     > 513590841
-- ##### E-mai<span style="color: #ff5c93;">*~~l~~*</span>
+- ##### E-mai<span style="color: #ff5c93;">***~~l~~***</span>
     > isk<span style="color: #ff5c93;">*~~e~~*</span>lin@qq<span style="color">*.com*</span>
 
 ### OC
