@@ -16,9 +16,9 @@
 #### C++
 本人主攻C++<span style="font-size: 10px;">***真的会有人不知好歹的初学就是CPP吗***</span>目前正在练习相关的题目和算法题，你可以看到我仓库里面都是一些垃圾的东西hhhhh \
 没事,至少我不用遭受各种DDL和项目的摧残<span style="font-size: 10px;">
-**~~(让你OO**
+**~~(让你~~OO**
 ~~<span style="color: #ff5c93;">M</span>~~
-**就老实了)~~**
+**~~就老实了)~~**
 
 #### C
 因为有亲友要学所以我也接触一点 **und<span style="color: #ff5c93;">*~~e~~*</span>rstand**一点——**~~(其实不也止一点)~~**
